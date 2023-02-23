@@ -8,7 +8,7 @@ public class soalA {
 
 		try (Scanner Input = new Scanner(System.in)) {
 			{
-				System.out.println("Silahkan masukan nilai N");
+				System.out.println("Silahkan masukan nilai N:");
 				System.out.print("N=");
 				int n = Input.nextInt();
 
